@@ -1,0 +1,109 @@
+Date,Category,Department,PaymentMethod,Amount,Status
+2026-02-01,Internet & Data,IT,Bank Transfer,11700,Pending
+2026-02-01,Meals,IT,Card,10100,Paid
+2026-02-01,Transport,Admin,Bank Transfer,6300,Pending
+2026-02-01,Utilities,HR,Card,5100,Pending
+2026-02-02,Marketing,Operations,Card,64800,Pending
+2026-02-02,Meals,Operations,POS,17300,Paid
+2026-02-02,Office Supplies,Sales,Bank Transfer,15200,Pending
+2026-02-02,Salaries,Admin,Cash,201600,Pending
+2026-02-02,Utilities,HR,Cash,17600,Paid
+2026-02-02,Utilities,IT,Cash,31500,Pending
+2026-02-03,Internet & Data,IT,Cash,17000,Paid
+2026-02-03,Internet & Data,Operations,Cash,8400,Paid
+2026-02-04,Maintenance,Admin,Bank Transfer,34200,Paid
+2026-02-04,Rent,IT,POS,211300,Pending
+2026-02-05,Maintenance,HR,Bank Transfer,36000,Paid
+2026-02-05,Office Supplies,Operations,Card,21900,Paid
+2026-02-05,Salaries,IT,Card,130800,Paid
+2026-02-06,Maintenance,HR,Cash,23100,Paid
+2026-02-06,Office Supplies,Admin,Cash,17500,Paid
+2026-02-06,Office Supplies,HR,Bank Transfer,12300,Paid
+2026-02-06,Rent,IT,POS,165800,Paid
+2026-02-06,Salaries,Operations,Bank Transfer,100800,Paid
+2026-02-07,Internet & Data,Admin,Bank Transfer,6800,Pending
+2026-02-07,Rent,Operations,POS,274100,Paid
+2026-02-07,Salaries,HR,Bank Transfer,93200,Paid
+2026-02-08,Internet & Data,Operations,POS,26500,Pending
+2026-02-08,Maintenance,IT,POS,38500,Paid
+2026-02-08,Marketing,IT,POS,86400,Paid
+2026-02-08,Transport,Sales,Card,10000,Paid
+2026-02-08,Utilities,Sales,Bank Transfer,12100,Paid
+2026-02-09,Marketing,HR,Card,48500,Paid
+2026-02-09,Marketing,Sales,POS,106700,Paid
+2026-02-09,Office Supplies,Operations,Cash,33300,Paid
+2026-02-09,Salaries,Sales,Cash,96300,Paid
+2026-02-09,Transport,Operations,POS,22900,Paid
+2026-02-09,Utilities,HR,Bank Transfer,29100,Paid
+2026-02-10,Internet & Data,Operations,Card,16300,Paid
+2026-02-10,Maintenance,Sales,Bank Transfer,21100,Pending
+2026-02-10,Meals,HR,Card,10300,Paid
+2026-02-11,Office Supplies,HR,Cash,11900,Paid
+2026-02-11,Office Supplies,IT,Card,31200,Paid
+2026-02-11,Rent,Admin,POS,276500,Paid
+2026-02-11,Rent,Sales,Cash,246700,Paid
+2026-02-11,Salaries,HR,Cash,125800,Paid
+2026-02-12,Internet & Data,Sales,Card,27200,Paid
+2026-02-12,Marketing,Admin,POS,43200,Pending
+2026-02-12,Marketing,IT,Cash,20600,Paid
+2026-02-12,Utilities,Admin,Card,34400,Paid
+2026-02-12,Utilities,Sales,POS,32800,Paid
+2026-02-13,Marketing,IT,POS,42600,Pending
+2026-02-13,Meals,Operations,Cash,7100,Paid
+2026-02-13,Meals,Sales,Bank Transfer,8500,Pending
+2026-02-13,Office Supplies,Admin,Bank Transfer,30500,Paid
+2026-02-13,Office Supplies,Operations,Bank Transfer,5100,Paid
+2026-02-13,Salaries,HR,Card,103700,Pending
+2026-02-14,Internet & Data,HR,Bank Transfer,17500,Pending
+2026-02-14,Office Supplies,Operations,POS,26500,Paid
+2026-02-14,Salaries,Operations,Cash,174600,Paid
+2026-02-15,Maintenance,Sales,Cash,41000,Paid
+2026-02-15,Rent,HR,Bank Transfer,257700,Paid
+2026-02-15,Transport,HR,Bank Transfer,15700,Paid
+2026-02-16,Marketing,Sales,Card,75800,Paid
+2026-02-16,Rent,IT,Cash,200900,Paid
+2026-02-16,Salaries,HR,Card,88900,Paid
+2026-02-16,Salaries,IT,Bank Transfer,190400,Paid
+2026-02-16,Salaries,Sales,Card,180600,Paid
+2026-02-16,Transport,IT,Cash,9300,Paid
+2026-02-17,Maintenance,HR,Cash,44400,Paid
+2026-02-17,Marketing,Operations,Bank Transfer,67200,Paid
+2026-02-18,Maintenance,Admin,Cash,13600,Paid
+2026-02-18,Maintenance,Sales,Bank Transfer,11200,Pending
+2026-02-18,Meals,Sales,POS,18300,Paid
+2026-02-19,Maintenance,Sales,Cash,20000,Pending
+2026-02-19,Marketing,Sales,POS,78700,Paid
+2026-02-20,Marketing,Sales,Cash,15000,Paid
+2026-02-20,Office Supplies,Operations,POS,32400,Paid
+2026-02-20,Salaries,IT,Card,182200,Pending
+2026-02-20,Salaries,Operations,Bank Transfer,230200,Paid
+2026-02-21,Marketing,Sales,POS,51500,Paid
+2026-02-21,Meals,Sales,Cash,14400,Paid
+2026-02-21,Rent,HR,Card,177700,Paid
+2026-02-21,Salaries,Sales,Cash,123900,Paid
+2026-02-21,Utilities,Operations,Bank Transfer,7500,Paid
+2026-02-22,Office Supplies,HR,Bank Transfer,7100,Paid
+2026-02-23,Meals,Admin,Cash,16300,Paid
+2026-02-23,Transport,Operations,POS,15000,Paid
+2026-02-24,Meals,Operations,Card,14900,Pending
+2026-02-24,Office Supplies,IT,Cash,14900,Pending
+2026-02-24,Rent,HR,Cash,226600,Paid
+2026-02-24,Transport,Operations,Cash,4700,Paid
+2026-02-25,Internet & Data,IT,POS,28200,Paid
+2026-02-25,Internet & Data,Operations,POS,16700,Paid
+2026-02-25,Marketing,Admin,POS,54300,Paid
+2026-02-25,Marketing,HR,Cash,25100,Paid
+2026-02-25,Utilities,Operations,Cash,22400,Pending
+2026-02-26,Internet & Data,IT,Bank Transfer,6000,Paid
+2026-02-26,Internet & Data,IT,Bank Transfer,8300,Paid
+2026-02-26,Transport,Operations,Bank Transfer,2300,Paid
+2026-02-26,Transport,Sales,POS,23000,Paid
+2026-02-26,Utilities,IT,POS,7100,Paid
+2026-02-27,Marketing,IT,Bank Transfer,66400,Pending
+2026-02-27,Office Supplies,Operations,Cash,7000,Paid
+2026-02-27,Salaries,HR,POS,182600,Pending
+2026-02-27,Salaries,Operations,Bank Transfer,93500,Paid
+2026-02-27,Utilities,Operations,Card,9300,Paid
+2026-02-28,Internet & Data,Operations,Bank Transfer,5600,Pending
+2026-02-28,Marketing,Admin,Bank Transfer,116700,Paid
+2026-02-28,Office Supplies,Sales,POS,19800,Paid

@@ -1,0 +1,113 @@
+Date,Category,Department,PaymentMethod,Amount,Status
+2026-04-01,Marketing,Operations,Card,100200,Paid
+2026-04-01,Rent,Admin,Card,257800,Paid
+2026-04-01,Transport,IT,Card,23000,Paid
+2026-04-02,Internet & Data,HR,Cash,11000,Paid
+2026-04-02,Maintenance,HR,Card,31400,Pending
+2026-04-02,Meals,Admin,Bank Transfer,17800,Paid
+2026-04-02,Office Supplies,IT,Bank Transfer,17300,Paid
+2026-04-02,Rent,HR,Card,163400,Pending
+2026-04-02,Transport,HR,Card,5900,Paid
+2026-04-02,Utilities,Admin,Bank Transfer,24400,Paid
+2026-04-03,Maintenance,HR,Card,43400,Paid
+2026-04-03,Utilities,HR,POS,5700,Paid
+2026-04-04,Marketing,IT,Bank Transfer,65800,Paid
+2026-04-04,Marketing,Operations,POS,74400,Pending
+2026-04-04,Meals,Admin,Cash,18700,Paid
+2026-04-04,Meals,Operations,Bank Transfer,4300,Paid
+2026-04-04,Meals,Operations,Card,7800,Pending
+2026-04-04,Rent,HR,Bank Transfer,245500,Paid
+2026-04-04,Salaries,HR,Cash,145700,Pending
+2026-04-04,Transport,IT,Cash,16700,Paid
+2026-04-05,Internet & Data,IT,Card,23700,Paid
+2026-04-05,Office Supplies,Operations,Bank Transfer,20000,Pending
+2026-04-05,Transport,HR,Bank Transfer,8800,Paid
+2026-04-06,Meals,IT,Bank Transfer,14900,Paid
+2026-04-06,Utilities,Admin,Card,19500,Paid
+2026-04-06,Utilities,Operations,Card,11000,Paid
+2026-04-07,Maintenance,Operations,Cash,54400,Pending
+2026-04-07,Office Supplies,HR,Cash,17200,Paid
+2026-04-07,Rent,Sales,POS,238800,Paid
+2026-04-07,Utilities,HR,Card,30300,Pending
+2026-04-08,Utilities,HR,Bank Transfer,10800,Paid
+2026-04-09,Marketing,Sales,Card,25600,Pending
+2026-04-09,Salaries,Admin,POS,131100,Paid
+2026-04-09,Salaries,HR,Cash,161800,Paid
+2026-04-10,Transport,HR,Bank Transfer,19200,Paid
+2026-04-10,Utilities,Admin,Card,7600,Paid
+2026-04-10,Utilities,HR,Cash,20300,Pending
+2026-04-11,Maintenance,Sales,POS,30300,Paid
+2026-04-11,Meals,Operations,POS,13400,Paid
+2026-04-11,Office Supplies,IT,Card,21200,Paid
+2026-04-11,Office Supplies,Sales,Cash,7700,Paid
+2026-04-11,Rent,IT,Bank Transfer,245200,Paid
+2026-04-11,Rent,Sales,Bank Transfer,213500,Pending
+2026-04-11,Salaries,HR,Bank Transfer,147400,Paid
+2026-04-11,Salaries,HR,Cash,120900,Paid
+2026-04-11,Transport,Operations,Cash,13900,Paid
+2026-04-12,Maintenance,Admin,Bank Transfer,14700,Paid
+2026-04-12,Maintenance,Operations,POS,29200,Paid
+2026-04-13,Internet & Data,IT,Card,20900,Paid
+2026-04-13,Marketing,HR,POS,56300,Paid
+2026-04-13,Office Supplies,HR,Bank Transfer,19400,Paid
+2026-04-13,Office Supplies,Sales,POS,18800,Paid
+2026-04-13,Rent,IT,Card,281000,Paid
+2026-04-13,Salaries,Sales,Bank Transfer,111900,Paid
+2026-04-13,Transport,IT,Cash,15800,Paid
+2026-04-14,Marketing,Sales,Bank Transfer,64800,Paid
+2026-04-14,Office Supplies,Admin,Cash,9700,Paid
+2026-04-15,Marketing,IT,Card,26100,Paid
+2026-04-16,Transport,IT,POS,19100,Paid
+2026-04-16,Utilities,HR,Card,16500,Paid
+2026-04-17,Maintenance,Admin,Bank Transfer,37300,Paid
+2026-04-17,Meals,HR,POS,16300,Pending
+2026-04-17,Rent,Sales,Cash,167900,Pending
+2026-04-17,Salaries,Admin,Bank Transfer,120200,Pending
+2026-04-18,Maintenance,Sales,POS,46700,Paid
+2026-04-18,Meals,HR,POS,4800,Pending
+2026-04-19,Internet & Data,Admin,Card,10200,Paid
+2026-04-19,Maintenance,Sales,Bank Transfer,41200,Paid
+2026-04-19,Transport,IT,POS,23900,Paid
+2026-04-19,Utilities,HR,Bank Transfer,36900,Paid
+2026-04-19,Utilities,HR,Card,31100,Paid
+2026-04-19,Utilities,Operations,Cash,17200,Paid
+2026-04-20,Marketing,Admin,Cash,78100,Paid
+2026-04-20,Meals,IT,POS,12000,Paid
+2026-04-20,Office Supplies,Admin,Card,21800,Pending
+2026-04-20,Utilities,Admin,Bank Transfer,31900,Paid
+2026-04-21,Marketing,Sales,POS,112900,Paid
+2026-04-22,Internet & Data,IT,Bank Transfer,17700,Pending
+2026-04-22,Internet & Data,Operations,Bank Transfer,16000,Paid
+2026-04-22,Office Supplies,Admin,POS,17400,Pending
+2026-04-22,Rent,Operations,POS,202200,Paid
+2026-04-23,Internet & Data,IT,Card,19800,Paid
+2026-04-23,Rent,IT,Cash,251900,Pending
+2026-04-24,Marketing,Admin,Card,41900,Pending
+2026-04-25,Internet & Data,Admin,Card,23900,Paid
+2026-04-25,Office Supplies,Admin,Bank Transfer,27100,Paid
+2026-04-25,Rent,HR,Cash,257600,Pending
+2026-04-26,Internet & Data,Operations,POS,23500,Paid
+2026-04-26,Maintenance,HR,Card,8100,Paid
+2026-04-26,Meals,Sales,POS,12000,Pending
+2026-04-27,Marketing,Admin,Cash,62100,Paid
+2026-04-27,Marketing,HR,Cash,117600,Pending
+2026-04-27,Marketing,Operations,Card,84800,Paid
+2026-04-27,Transport,Operations,POS,21700,Paid
+2026-04-27,Transport,Sales,Bank Transfer,6500,Paid
+2026-04-27,Utilities,Admin,POS,10200,Paid
+2026-04-27,Utilities,Operations,Card,10800,Paid
+2026-04-28,Internet & Data,Sales,Bank Transfer,21900,Paid
+2026-04-28,Maintenance,Admin,Card,32500,Pending
+2026-04-28,Transport,HR,POS,11000,Paid
+2026-04-29,Maintenance,Sales,POS,44300,Paid
+2026-04-29,Marketing,IT,Card,84000,Paid
+2026-04-29,Marketing,Sales,Cash,64500,Paid
+2026-04-29,Meals,Operations,POS,6300,Paid
+2026-04-29,Rent,Admin,Cash,294900,Paid
+2026-04-29,Transport,Admin,POS,24200,Paid
+2026-04-30,Internet & Data,Operations,Bank Transfer,5400,Paid
+2026-04-30,Maintenance,Admin,POS,63400,Paid
+2026-04-30,Marketing,Sales,Cash,41300,Pending
+2026-04-30,Rent,HR,Card,219700,Paid
+2026-04-30,Rent,IT,Bank Transfer,257400,Paid
+2026-04-30,Rent,Sales,Cash,191100,Paid
